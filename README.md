@@ -1,36 +1,3 @@
-# SQL Case Studies
-
-A collection of real-world SQL investigations focused on Trust & Safety, Fraud Detection, Content Moderation, Risk Analytics, and User Behavior Analysis.
-
-## Objective
-
-This repository demonstrates practical SQL skills through business-driven case studies designed to simulate real analytical investigations performed by Data Analysts, Risk Analysts, Trust & Safety Analysts, and Engineering Analysts.
-
-## Skills Demonstrated
-
-### SQL
-
-* SQL Querying
-* Joins
-* Aggregations
-* Grouping & Filtering
-* Common Table Expressions (CTEs)
-* Window Functions
-* DENSE_RANK()
-* ROW_NUMBER()
-* Running Totals
-
-### Analytics
-
-* Data Investigation
-* Root Cause Analysis
-* Risk Analytics
-* Fraud Detection
-* Content Moderation Analytics
-* Trend Analysis
-* Investigation Prioritization
-* Business Intelligence
-
 ## Case Studies
 
 ### Case Study 1: Content Abuse Investigation
@@ -80,25 +47,33 @@ Analyze transaction activity to identify fraudulent behavior, high-risk accounts
 * Analyzed country-level fraud concentration
 * Identified high-value fraud patterns
 
-## Upcoming Case Studies
+---
 
 ### Case Study 3: Platform Integrity Analytics
 
-Analyze reports, appeals, enforcement actions, moderation accuracy, and platform abuse patterns.
+Analyze creator behavior, content reports, moderation actions, and platform abuse patterns to support Trust & Safety investigations.
+
+**Concepts Covered**
+
+* Platform Integrity Analytics
+* Content Moderation Analytics
+* Creator Risk Scoring
+* Investigation Prioritization
+* Trend Analysis
+* Enforcement Effectiveness
+* Window Functions
+
+**Key Results**
+
+* Identified 7 reported creators
+* Analyzed 22 content reports
+* Built creator integrity risk scoring models
+* Created moderation escalation queues
+* Evaluated enforcement outcomes
+* Analyzed platform abuse concentration
+
+## Upcoming Case Studies
 
 ### Case Study 4: User Behavior Analytics
 
 Analyze engagement patterns, retention trends, churn behavior, and user segmentation.
-
-## Tools
-
-* SQLite
-* DB Browser for SQLite
-* Git
-* GitHub
-
-## Author
-
-Rupika Das
-
-Data Analyst | SQL | Python | Analytics | Trust & Safety Portfolio Projects
