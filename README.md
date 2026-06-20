@@ -33,7 +33,7 @@ This repository demonstrates practical SQL skills through business-driven case s
 
 ## Case Studies
 
-### Case Study 1: Content Abuse Investigation ✅
+### Case Study 1: Content Abuse Investigation
 
 Analyze user-generated content to identify abusive behavior, repeat offenders, moderation trends, and high-risk accounts.
 
@@ -57,7 +57,7 @@ Analyze user-generated content to identify abusive behavior, repeat offenders, m
 
 ---
 
-### Case Study 2: Fraud Detection Analytics ✅
+### Case Study 2: Fraud Detection Analytics
 
 Analyze transaction activity to identify fraudulent behavior, high-risk accounts, fraud concentration, and investigation priorities.
 
