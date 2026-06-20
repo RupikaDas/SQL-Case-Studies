@@ -186,13 +186,13 @@ Most fraud cases resulted in direct account blocking, while higher-risk transact
 
 ## Project Structure
 
-Case-Study-2-Fraud-Detection-Analytics/
-|
-|--- README.md
-|--- schema.sql
-|--- solutions.sql
-|--- questions.md
-|--- fraud_detection.db
+Case-Study-2-Fraud-Detection-Analytics/<br>
+|<br>
+|--- README.md<br>
+|--- schema.sql<br>
+|--- solutions.sql<br>
+|--- questions.md<br>
+|--- fraud_detection.db<br>
 
 ---
 

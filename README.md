@@ -1,6 +1,6 @@
 # SQL Case Studies
 
-A collection of real-world SQL investigations focused on Trust & Safety, fraud detection, content moderation, risk analytics, and user behavior analysis.
+A collection of real-world SQL investigations focused on Trust & Safety, Fraud Detection, Content Moderation, Risk Analytics, and User Behavior Analysis.
 
 ## Objective
 
@@ -8,45 +8,87 @@ This repository demonstrates practical SQL skills through business-driven case s
 
 ## Skills Demonstrated
 
+### SQL
+
 * SQL Querying
-* Data Investigation
-* Data Aggregation
 * Joins
+* Aggregations
 * Grouping & Filtering
+* Common Table Expressions (CTEs)
 * Window Functions
+* DENSE_RANK()
+* ROW_NUMBER()
+* Running Totals
+
+### Analytics
+
+* Data Investigation
 * Root Cause Analysis
 * Risk Analytics
 * Fraud Detection
 * Content Moderation Analytics
+* Trend Analysis
+* Investigation Prioritization
+* Business Intelligence
 
 ## Case Studies
 
-### Case Study 1: Content Abuse Investigation
+### Case Study 1: Content Abuse Investigation ✅
 
-Analyze user-generated content to identify abusive behavior, repeat offenders, and moderation trends.
+Analyze user-generated content to identify abusive behavior, repeat offenders, moderation trends, and high-risk accounts.
 
 **Concepts Covered**
 
 * Joins
 * Aggregations
-* GROUP BY
-* HAVING
-* Investigation Queries
+* CTEs
+* Window Functions
+* Risk Scoring
+* Trend Analysis
 * Trust & Safety Analytics
 
-## Future Case Studies
+**Key Results**
 
-### Case Study 2: Fraud Detection Analytics
+* Identified 7 abusive users
+* Detected 19 flagged comments
+* Built an account risk scoring model
+* Prioritized escalation candidates
+* Analyzed abuse trends over time
 
-Identify suspicious transactions and high-risk accounts.
+---
 
-### Case Study 3: User Behavior Analysis
+### Case Study 2: Fraud Detection Analytics ✅
 
-Analyze engagement patterns and anomalous activity.
+Analyze transaction activity to identify fraudulent behavior, high-risk accounts, fraud concentration, and investigation priorities.
 
-### Case Study 4: Content Moderation Analytics
+**Concepts Covered**
 
-Measure moderation effectiveness and abuse trends.
+* Fraud Analytics
+* Risk Scoring
+* Investigation Prioritization
+* Window Functions
+* Escalation Logic
+* Trend Monitoring
+* Country Risk Analysis
+
+**Key Results**
+
+* Identified 9 fraudulent accounts
+* Detected 23 fraudulent transactions
+* Built fraud risk scoring models
+* Created investigation priority queues
+* Analyzed country-level fraud concentration
+* Identified high-value fraud patterns
+
+## Upcoming Case Studies
+
+### Case Study 3: Platform Integrity Analytics
+
+Analyze reports, appeals, enforcement actions, moderation accuracy, and platform abuse patterns.
+
+### Case Study 4: User Behavior Analytics
+
+Analyze engagement patterns, retention trends, churn behavior, and user segmentation.
 
 ## Tools
 
@@ -58,3 +100,5 @@ Measure moderation effectiveness and abuse trends.
 ## Author
 
 Rupika Das
+
+Data Analyst | SQL | Python | Analytics | Trust & Safety Portfolio Projects

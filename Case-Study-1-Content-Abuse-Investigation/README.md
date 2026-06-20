@@ -212,13 +212,13 @@ These spikes suggest coordinated spam activity rather than isolated incidents.
 
 ## Project Structure
 
-Case-Study-1-Content-Abuse-Investigation/
-|
-|--- README.md
-|--- schema.sql
-|--- solutions.sql
-|--- questions.md
-|--- content_abuse.db
+Case-Study-1-Content-Abuse-Investigation/<br>
+|<br>
+|--- README.md<br>
+|--- schema.sql<br>
+|--- solutions.sql<br>
+|--- questions.md<br>
+|--- content_abuse.db<br>
 
 ---
 
